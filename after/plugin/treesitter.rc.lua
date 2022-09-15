@@ -17,7 +17,6 @@ ts.setup {
     'css',
     'typescript',
     'javascript',
-    'json',
     'go',
     'html'
   },
